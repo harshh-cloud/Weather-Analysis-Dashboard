@@ -49,4 +49,4 @@ Air Quality Index (Gauge Chart): Visualizes AQI (38.48) with a color-coded gauge
 Regional Comparisons (Grouped Bar Chart): Compares temperature and air quality across locations (e.g., Noida 34.5°C, Lucknow 33
 
 6. Screenshots / Demos
-   
+   https://github.com/harshh-cloud/Weather-Analysis-Dashboard/blob/main/Weather%20Analysis%20Dashboard.png
